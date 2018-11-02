@@ -1,5 +1,5 @@
 # Site settings
-title: typistzhao's Personal Website
+title: Typistzhao's Personal Website
 email: zhaoyuansir@163.com
 description: Typistzhao's Ideas & Blogs
 # > # this means to ignore newlines until "baseurl:"
@@ -10,7 +10,7 @@ description: Typistzhao's Ideas & Blogs
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: typistzhao
+github_username: Typistzhao
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/typistzhao/typistzhao.github.io/blob/master/

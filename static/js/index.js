@@ -102,6 +102,7 @@ function categoryDisplay() {
 /**
  * 回到顶部
  */
+ /*
 function backToTop() {
     //滚页面才显示返回顶部
     $(window).scroll(function() {
@@ -123,6 +124,7 @@ function backToTop() {
         $('[data-toggle="tooltip"]').tooltip();
     });
 }
+*/
 
 
 /**

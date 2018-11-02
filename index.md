@@ -4,4 +4,4 @@ layout: frontpage
 
 ## Welcome to my website
 
-This is the place where I want to taken notes on what I have learned.
+I intend to take notes on what I have learned and to share what I think about.

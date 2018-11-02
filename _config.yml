@@ -1,7 +1,7 @@
 # Site settings
-title: icesource's Personal Website
-email: zhaoyuansir@163.com
-description: 己所欲不欲，皆勿施于人
+title: LiXizhi's Personal Website
+email: lixizhi@yeah.net
+description: Xizhi's Ideas & Blogs
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -10,19 +10,19 @@ description: 己所欲不欲，皆勿施于人
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: icesource
+github_username: LiXizhi
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/typistzhao/icesource.github.io/blob/master/
+viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/typistzhao/icesource.github.io/new/master
+newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: icesource
-#duoshuo_url: "http://icesource.github.io"
+#duoshuo_shortname: lixizhi
+#duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: icesource
-disqus_url: "http://icesource.github.io"
+disqus_shortname: lixizhi
+disqus_url: "http://lixizhi.github.io"
 #########################################
 
 # Build settings
